@@ -6,12 +6,8 @@
 
 * I am a self-taught developer.
 * I wrote my first line of code in November 2020.
-  (My first project was a Discord bot written in Python.)
 * I take great pride in my work.
-  I value well-written, well-documented, maintainable code.
-* I am grateful for this industry's open source community.
-* Before programming, I was interested in Photography.
-* I study Japanese daily. 日本が大好きです！
+  I value well-written, well-documented, maintainable code!
 
 ## Experience
 
