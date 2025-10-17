@@ -1,57 +1,51 @@
 # Nicolas Gonzalez
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c967853f-ac36-4767-9c37-3419eabbf54a/d6kvp8g-3470596f-c74b-43fc-ab04-580045c1fdb1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5Njc4NTNmLWFjMzYtNDc2Ny05YzM3LTM0MTllYWJiZjU0YVwvZDZrdnA4Zy0zNDcwNTk2Zi1jNzRiLTQzZmMtYWIwNC01ODAwNDVjMWZkYjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.faMxEqurTEcxeE02iMHSAh3yo13C3lKyUbu_K-rXdIk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicdgonzalez/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/374923756646301698/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndgonzalez.work@gmail.com)
 
-## About Me
+Hey, I'm Nic 👋—a software developer obsessed with creating things from the
+ground up.
 
-* I am a self-taught developer.
-* I wrote my first line of code in November 2020.
-* I take great pride in my work.
-  I value well-written, well-documented, maintainable code!
+I build tools and applications that solve problems I've faced—chances are,
+someone else has faced them too; that's why I enjoy building in public and
+sharing what I learn along the way.
 
-## Experience
+My go-to language is Rust 🦀, but I love diving deep into new technologies and
+exploring how things work under the hood.
 
-An outline of my experience as a programmer thus far.
+## Currently Working On
 
-### Operating Systems
+- Developing tools to make studying Japanese more effective.
+- Expanding my skills with new languages and technologies.
+- Sharing everything I make—the product, the planning, the lessons learned.
 
-![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Projects
 
-### CLI Tools / Desktop Applications
+> [!IMPORTANT]\
+> I'm currently **open to new opportunities**!
+>
+> If you know a team that could use a strong developer, feel free to reach out
+> or pass my name along.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+Here are some of the projects I've built—tools, libraries, and applications
+that help make my life easier (and hopefully yours too).
 
-### Web Applications
+- 👏 **[Clap]** - Auto-generate CLIs from function signatures in Python.
+- ⛏️ **[Axiom]** - A command-line tool for managing PaperMC Minecraft servers.
+- 🪐 **[Orbit]** - Quickly switch between multiple development environments.
+- 🔰 **[KanjiVG to PNG]** - Convert KanjiVG SVGs into PNG stroke diagrams.
+- 🍨 **[Colorize]** - Add color and style to terminal output in Python.
 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+👉 See my other projects
+[here](https://github.com/nicdgonzalez?tab=repositories).
 
-### Computer Science
+## GitHub stats
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicdgonzalez&theme=github)
 
-### Databases
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Text Editors
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Tools I use
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Black](https://img.shields.io/badge/black-black?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sphinx-0A507A?style=for-the-badge&logo=sphinx)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+[axiom]: https://github.com/nicdgonzalez/axiom
+[clap]: https://github.com/nicdgonzalez/clap
+[colorize]: https://github.com/nicdgonzalez/colorize
+[kanjivg to png]: https://github.com/nicdgonzalez/kanjivg-to-png
+[orbit]: https://github.com/nicdgonzalez/orbit
