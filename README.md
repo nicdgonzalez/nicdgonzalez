@@ -23,8 +23,7 @@ exploring how things work under the hood.
 ## Projects
 
 > [!IMPORTANT]\
-> I'm currently **open to new opportunities**!
->
+> I'm currently **open to new opportunities**!\
 > If you know a team that could use a strong developer, feel free to reach out
 > or pass my name along.
 
@@ -39,6 +38,12 @@ that help make my life easier (and hopefully yours too).
 
 👉 See my other projects
 [here](https://github.com/nicdgonzalez?tab=repositories).
+
+## Supporting
+
+If you find any of my projects helpful, please consider supporting :)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nicdgonzalez)
 
 ## GitHub stats
 
